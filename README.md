@@ -16,11 +16,11 @@ This library is used in combination with 3D-aware predicted ellipses for object-
 The library can be build with the following commands:
 
 ```
-python -m pip install 'git+https://gitlab.inria.fr/mzins/pyellcv.git'
+python -m pip install 'git+https://gitlab.inria.fr/tangram/pyellcv.git'
 # (add --user if you don't have permission)
 
 # Or, to install it from a local clone:
-git clone --recursive  https://gitlab.inria.fr/mzins/pyellcv.git
+git clone --recursive  https://gitlab.inria.fr/tangram/pyellcv.git
 python -m pip install -e ./pyellcv
 ```
 
